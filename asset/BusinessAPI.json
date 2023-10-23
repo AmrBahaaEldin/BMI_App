@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 69,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Oliver Darcy",
+      "title": "Elon Musk’s X faces advertiser backlash after placing marketing for major brands on notorious white supremacist account - CNN",
+      "description": "The Elon-Musk owned social media platform, X, confidently claims that it harnesses industry-leading brand safety tools to ensure a positive experience for advertisers on the platform — but a quick glance at where advertisements for prominent brands actually a…",
+      "url": "https://www.cnn.com/2023/10/05/media/x-advertisements-reliable-sources/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231006103528-illustration-x.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-10-06T02:43:00Z",
+      "content": "Editors Note: A version of this article first appeared in the Reliable Sources newsletter. Sign up for the daily digest chronicling the evolving media landscape here.\r\nThe Elon-Musk owned social medi… [+5153 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Exxon Near $60 Billion Deal For Pioneer Natural Resources: WSJ - Investor's Business Daily",
+      "description": null,
+      "url": "https://www.investors.com/news/exxon-mobil-near-60-billion-deal-for-shale-giant-pioneer-natural-resources-wsj/",
+      "urlToImage": null,
+      "publishedAt": "2023-10-06T02:27:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Brie Stimson",
+      "title": "'Rolling' candies recalled after choking death of 7-year-old, reports of ball detaching - Fox Business",
+      "description": "Rolling candy has been recalled months after a 7-year-old child choked to death, when the product's rolling ball detached from its holder.",
+      "url": "https://www.foxbusiness.com/retail/rolling-candy-recalled-choking-death-7-year-old-reports-ball-detaching",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/10/0/0/rolling-candy-split.jpg?ve=1&tl=1",
+      "publishedAt": "2023-10-06T00:51:25Z",
+      "content": "Ahead of Halloween, a candy with a rolling ball attached to a holder has been recalled following the death of a 7-year-old girl earlier this year, the U.S. Consumer Product Safety Commission (CPSC) a… [+2512 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "If Fed stays higher for longer the U.S. has 'a lot of pain in front of it': QI CEO DiMartino Booth - CNBC Television",
+      "description": "Hosted by Brian Sullivan, “Last Call” is a fast-paced, entertaining business show that explores the intersection of money, culture and policy. Tune in Monday...",
+      "url": "https://www.youtube.com/watch?v=20dfGW4gcZg",
+      "urlToImage": "https://i.ytimg.com/vi/20dfGW4gcZg/maxresdefault.jpg",
+      "publishedAt": "2023-10-06T00:48:37Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Stephanie Landsman",
+      "title": "JPMorgan's Marko Kolanovic braces for 20% market plunge, delivers recession warning - CNBC",
+      "description": "Institutional Investor hall-of-famer Marko Kolanovic warns high interest rates are creating a breaking point for stocks.",
+      "url": "https://www.cnbc.com/2023/10/05/jpmorgans-kolanovic-warning-20percent-stock-market-plunge-ahead-recession.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104445987-Image-uploaded-from-iOS.jpg?v=1696551767&w=1920&h=1080",
+      "publishedAt": "2023-10-06T00:22:00Z",
+      "content": "JPMorgan's Marko Kolanovic is bracing for a 20% sell-off to hit the S&amp;P 500.\r\nAccording to the Institutional Investor hall-of-famer, high interest rates are creating a breaking point for stocks a… [+1850 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Seattle Times"
+      },
+      "author": "The Seattle Times",
+      "title": "Record high mortgage rates keep lid on Seattle-area housing market - The Seattle Times",
+      "description": null,
+      "url": "https://www.seattletimes.com/business/real-estate/record-high-mortgage-rates-keep-lid-on-seattle-area-housing-market/",
+      "urlToImage": null,
+      "publishedAt": "2023-10-05T23:55:31Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Julie Coleman",
+      "title": "Cramer's Lightning Round: Vertex is 'excellent' - CNBC",
+      "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+      "url": "https://www.cnbc.com/2023/10/05/cramers-lightning-round-vertex-is-excellent.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103507374-104044814.jpg?v=1696549831&w=1920&h=1080",
+      "publishedAt": "2023-10-05T23:50:31Z",
+      "content": "Topgolf: \"The company is making money, and I think it's a great experiential situation, but I have been wrong.\" \r\nSabre: \"I think BKNG is the stock that you want to be in, not SABR.\"\r\nBlackBerry: \"It… [+1018 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Sheila Dang",
+      "title": "X CEO Yaccarino tells bank lenders that revenue grew by single-digit percentage -source - Yahoo Finance",
+      "description": "(Reuters) -X Chief Executive Linda Yaccarino laid out plans to grow the social media company's business during her first meeting on Thursday with X's banks, ...",
+      "url": "https://finance.yahoo.com/news/x-ceo-yaccarino-tells-bank-234210319.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/cca799d2c505e000e758ecb5b4ff2619",
+      "publishedAt": "2023-10-05T23:42:10Z",
+      "content": "By Sheila Dang\r\n(Reuters) -X Chief Executive Linda Yaccarino laid out plans to grow the social media company's business during her first meeting on Thursday with X's banks, according to a person who … [+2117 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Chattanooga Times Free Press"
+      },
+      "author": null,
+      "title": "WATCH: Federal investigator arrives at Chattanooga Airport after crash landing - Chattanooga Times Free Press",
+      "description": "A federal investigator arrived Thursday in response to the late-night crash landing of a Boeing 757 cargo plane at Chattanooga Airport after a landing gear problem, and a thorough probe is expected, officials said.",
+      "url": "https://www.timesfreepress.com/news/2023/oct/05/fedex-jet-crash-lands-at-chattanooga-airport/",
+      "urlToImage": "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/10/05/100523_Plane01_t600.JPG?4326734cdb8e39baa3579048ef63ad7b451e7676",
+      "publishedAt": "2023-10-05T23:37:30Z",
+      "content": "A federal investigator arrived Thursday in response to the late-night crash landing of a Boeing 757 cargo plane at Chattanooga Airport after a landing gear problem, and a thorough probe is expected, … [+618 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sarah Min",
+      "title": "Stock futures are little changed as traders await Friday's jobs report: Live updates - CNBC",
+      "description": "The S&P 500 is headed for its fifth straight week of losses as traders watch rising bond yields.",
+      "url": "https://www.cnbc.com/2023/10/05/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107306733-16957420772023-09-26t152502z_2026145238_rc2eg3aioxnr_rtrmadp_0_usa-stocks.jpeg?v=1696543339&w=1920&h=1080",
+      "publishedAt": "2023-10-05T23:17:00Z",
+      "content": "Recent strike activity from the United Auto Workers and the Writers Guild of America are unlikely to have a measurable impact on the September payrolls report due Friday, according to Vanguard's chie… [+785 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Hannah Murphy",
+      "title": "SEC seeks to force Elon Musk to testify in probe of Twitter stock purchases - Financial Times",
+      "description": "US securities regulator’s court filing signals yet another fight with billionaire",
+      "url": "https://www.ft.com/content/b20cbe77-51b1-40e2-926e-e8502cacc289",
+      "urlToImage": null,
+      "publishedAt": "2023-10-05T23:06:16Z",
+      "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1494 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Olivia Raimonde",
+      "title": "Corporate America Ignores Powell Warnings, Borrows Another $570 Billion - Bloomberg",
+      "description": "The recent spike in bond yields may have briefly cooled the market, but the pace of borrowing has been blistering.",
+      "url": "https://www.bloomberg.com/news/features/2023-10-05/corporate-america-ignores-powell-warnings-borrows-another-570-billion",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3LbEX7RNd88/v0/1200x675.jpg",
+      "publishedAt": "2023-10-05T23:01:53Z",
+      "content": "For the past 18 months, Federal Reserve Chair Jerome Powell has frantically been trying to break Americans' borrow-and-spend habits. Its critical to his fight against inflation.\r\nIn C-suites across t… [+59 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Berkshire Hathaway's Charlie Munger gives $40 million in stock to California museum - Yahoo Finance",
+      "description": null,
+      "url": "https://finance.yahoo.com/news/berkshire-hathaways-charlie-munger-gives-225645649.html",
+      "urlToImage": null,
+      "publishedAt": "2023-10-05T22:56:45Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WOODTV.com"
+      },
+      "author": "Carlos Mathis, Iman Palm",
+      "title": "Girl Scouts discontinue fan-favorite cookie, raise prices - WOODTV.com",
+      "description": "Girl Scout cookie season is only a few months away, but two changes by the organization are not going unnoticed.",
+      "url": "https://www.woodtv.com/news/nexstar-media-wire/girl-scouts-discontinue-fan-favorite-cookie-raise-prices/",
+      "urlToImage": "https://www.woodtv.com/wp-content/uploads/sites/51/2023/10/GettyImages-645516590-e1696544406475.jpg?w=1280",
+      "publishedAt": "2023-10-05T22:25:45Z",
+      "content": "(WDTN) — Girl Scout cookie season is only a few months away, but two changes by the organization are not going unnoticed.\r\nChapters of Girl Scouts of America in Massachusetts and New York have alread… [+1929 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "David Shepardson, Ben Klayman",
+      "title": "GM makes new counteroffer to UAW in strike talks - Reuters",
+      "description": "General Motors <a href=\"https://www.reuters.com/markets/companies/GM.N\" target=\"_blank\">(GM.N)</a> said on Thursday it had made a counteroffer to the United Auto Workers (UAW) in a bid to end a strike by the union against the U.S. automaker.",
+      "url": "https://www.reuters.com/business/autos-transportation/gm-makes-counteroffer-uaw-strike-talks-2023-10-05/",
+      "urlToImage": "https://www.reuters.com/resizer/HzgJ1tgkbf7CVuTvrJvy5rCLSRs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QJAE2NCA5RNA7J53MMV2D3CSRQ.jpg",
+      "publishedAt": "2023-10-05T21:49:00Z",
+      "content": "DETROIT, Oct 5 (Reuters) - General Motors (GM.N) said on Thursday it had made a counteroffer to the United Auto Workers (UAW) in a bid to end a strike by the union against the U.S. automaker.\r\nSepara… [+3086 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Joshua Oliver",
+      "title": "Sam Bankman-Fried knew FTX wasn't 'bulletproof' months before collapse, witness says - Financial Times",
+      "description": "Adam Yedidia testifies about conversation with former housemate and employer six months before exchange’s bankruptcy",
+      "url": "https://www.ft.com/content/34537b0c-5afb-4c96-9184-1ce7533078c7",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F9d38e7de-d991-400c-b464-c00543d5747d.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2023-10-05T21:41:49Z",
+      "content": "Sam Bankman-Fried discussed the massive debt owed by his private trading firm Alameda to customers of his FTX cryptocurrency exchange in June 2022, six months before FTX collapsed, according to testi… [+3998 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Katherine Sayre",
+      "title": "MGM Resorts Refused to Pay Ransom in Cyberattack on Casinos - WSJ - The Wall Street Journal",
+      "description": "Fallout will have a $100 million negative impact on quarterly earnings, Las Vegas-based company says",
+      "url": "https://www.wsj.com/tech/cybersecurity/mgm-resorts-refused-to-pay-ransom-in-cyberattack-on-casinos-3a53fa6d",
+      "urlToImage": "https://images.wsj.net/im-862735/social",
+      "publishedAt": "2023-10-05T21:18:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Danielle Wiener-Bronner",
+      "title": "Ozempic is on the rise. That could be a problem for food companies - CNN",
+      "description": "With prescriptions for semaglutide drugs, including Wegovy and Ozempic, on the rise, food sellers are increasingly fielding questions about the possibility of a significant shift in how — or how much — people eat.",
+      "url": "https://www.cnn.com/2023/10/05/investing/ozempic-food-companies/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231005145408-ozempic-injection-drug-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-10-05T21:06:00Z",
+      "content": "With prescriptions for semaglutide drugs, including Wegovy and Ozempic, on the rise, food sellers are increasingly fielding questions about the possibility of a significant shift in how or how much p… [+4540 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ariel Zilber",
+      "title": "Where to invest your money at a time of high interest rates - New York Post ",
+      "description": "Fidelity’s SPAXX money market account or high-yield savings accounts from SoFi or Ally could be options for those looking for a place to stash cash.",
+      "url": "https://nypost.com/2023/10/05/where-to-invest-your-money-at-a-time-of-high-interest-rates/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/10/newspress-collage-k8qeuv816-1696530143959.jpg?quality=75&strip=all&1696515818&w=1024",
+      "publishedAt": "2023-10-05T20:51:00Z",
+      "content": "Falling stocks and volatile capital markets have experts recommending that anxious Americans park their money in less risky instruments such as money markets, certificates of deposit and high-yield s… [+2532 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WTAE Pittsburgh"
+      },
+      "author": "Andrew Stockey",
+      "title": "Four winning tickets in Powerball drawing sold throughout Pennsylvania - WTAE Pittsburgh",
+      "description": "One of the tickets was a $100,000 winner sold at a Pittsburgh pharmacy.",
+      "url": "https://www.wtae.com/article/powerball-winning-ticket-pittsburgh-rite-aid-oakland/45459490",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pennsylvania-lottery-1620659358.png?crop=0.845xw:0.846xh;0.0896xw,0.0754xh&resize=1200:*",
+      "publishedAt": "2023-10-05T20:37:00Z",
+      "content": "PITTSBURGH —It wasn't the billion-dollar jackpot, but some lucky lottery players in Pennsylvania are holding winning tickets for other prizes from the Powerball drawing on Wednesday.\r\nLottery officia… [+777 chars]"
+    }
+  ]
+}
